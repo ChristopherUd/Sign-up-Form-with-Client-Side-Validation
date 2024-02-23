@@ -1,0 +1,9 @@
+.trial {
+  background-color: hsl(154, 59%, 51%);
+  border-radius: 7px;
+  width: 80%;
+  height: 10%;
+  margin-top: 15px;
+  color: white;
+  font-weight: 400;
+}

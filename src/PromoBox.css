@@ -1,0 +1,9 @@
+.promo {
+  background-color: hsl(248, 32%, 49%);
+  width: 50%;
+  height: 5%;
+  border-radius: 7px;
+  color: white;
+  text-align: center;
+  font-family: poppins;
+}

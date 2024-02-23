@@ -1,0 +1,31 @@
+.user-input {
+  border-color: black;
+  border-width: thin;
+  border-radius: 7px;
+  width: 80%;
+  height: 10%;
+  margin-top: 15px;
+  font-family: poppins;
+  font-weight: 500;
+  /* margin-bottom: 15px; */
+}
+
+.label {
+  /* background-color: aqua; */
+  margin-top: 0px;
+  position: relative;
+  left: 100px;
+  color: hsl(0, 100%, 74%);
+  font-size: 13px;
+  font-family: poppins;
+  display: none;
+}
+
+.label-show {
+  margin-top: 0px;
+  position: relative;
+  left: 100px;
+  color: hsl(0, 100%, 74%);
+  font-size: 13px;
+  font-family: poppins;
+}

@@ -1,0 +1,11 @@
+.data-box {
+  background-color: white;
+  width: 50%;
+  height: 50%;
+  border-radius: 7px;
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
